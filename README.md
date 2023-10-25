@@ -17,7 +17,7 @@ The script reads a list of stock codes from a CSV file, `stock_list.csv`, locate
 
 The script categorizes stocks into two groups:
 
-1. **Perfect Needle Points**: Stocks that exhibit the "perfect needle point," where all three MAs cross simultaneously. These are potentially significant trading opportunities.
+1. **Perfect Needle Points**: Stocks that exhibit the "perfect needle point" where all three MAs cross simultaneously. These are potentially significant trading opportunities.
 
 2. **Attention Stocks**: Stocks that show MAs crossing very close in time. These stocks warrant further examination.
 
