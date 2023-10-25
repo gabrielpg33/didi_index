@@ -7,8 +7,8 @@ The Didi Index Stock Checker is a Python script designed to automate the process
 The Didi Index is a technical indicator used in stock trading. It is based on the concept of moving average crossovers. The key elements are as follows:
 
 - 3-period, 8-period, and 20-period moving averages are used.
-- When the 3-period MA crosses above the 8-period MA, it's considered a BUY event.
-- When the 3-period MA crosses below the 8-period MA, it's considered a SELL event.
+- When the 3-period MA crosses above the 8-period MA and the 20-period crosses below the 8-period MA, it's considered a BUY event.
+- When the 3-period MA crosses below the 8-period MA and the 20-period crosses above the 8-period MA, it's considered a SELL event.
 - The "perfect needle point" occurs when all three MAs cross simultaneously.
 
 ## Usage
