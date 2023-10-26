@@ -25,7 +25,9 @@ The script categorizes stocks into two groups:
 
 - The script focuses on the Didi Index using moving averages but does not consider other indicators like ADX, Bollinger Bands, Trix, or Stochastic, which are part of the broader Didi Aguiar's technique.
 
-By automating the process of identifying potential Didi Index conditions, this script saves time compared to manually checking each stock in the list.
+- By automating the process of identifying potential Didi Index conditions, this script saves time compared to manually checking each stock in the list.
+
+- This is not a complete trading system, it is a tool that simplifies stock trend analysis.
 
 ## Instructions
 
