@@ -31,6 +31,7 @@ The script categorizes stocks into two groups:
 
 ## Instructions
 
-1. Create a CSV file named `stock_list.csv` in the same folder as the `didi_check.py` script.
-2. In `stock_list.csv`, list the stock codes you want to check using the yfinance format.
-3. Run the `didi_check.py` script to analyze the stocks in the list.
+1. Make sure you have pandas, numpy and yfinance modules installed.
+2. Create a CSV file named `stock_list.csv` in the same folder as the `didi_check.py` script.
+3. In `stock_list.csv`, list the stock codes you want to check using the yfinance format.
+4. Run the `didi_check.py` script to analyze the stocks in the list.
