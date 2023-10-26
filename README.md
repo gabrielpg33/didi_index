@@ -27,7 +27,7 @@ The script categorizes stocks into two groups:
 
 - By automating the process of identifying potential Didi Index conditions, this script saves time compared to manually checking each stock in the list.
 
-- This is not a complete trading system, it is a tool that simplifies stock trend analysis.
+- This is not a complete trading system, it is a tool that simplifies stock trend analysis that helps traders and investors to make informed decisions.
 
 ## Instructions
 
