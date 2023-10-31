@@ -16,7 +16,7 @@ tickers_list = tickers_df['Tickers'].tolist()
 
 # TIME DELTA. LAST 30 DAYS TO EXAMINE LAST WEEK CONDITIONS
 today = datetime.now()
-end = datetime(2023, 8, today.day)
+end = datetime(2023, today.month, today.day)
 start = end - timedelta(30)
 date_index = pd.date_range(start, end, freq='D')
 
